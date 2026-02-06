@@ -1,4 +1,4 @@
-# Scalekit Auth - Secure OAuth Token Management
+# Scalekit Auth - Secure OAuth Token Management for Openclaw agents
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-scalekit--auth-blue)](https://clawhub.com)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
